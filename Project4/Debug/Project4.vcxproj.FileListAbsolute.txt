@@ -1,0 +1,2 @@
+D:\桌面\面向对象\Project4\Debug\Project4.exe
+D:\桌面\面向对象\Project4\Debug\Project4.pdb
